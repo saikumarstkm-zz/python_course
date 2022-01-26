@@ -1,0 +1,12 @@
+Variables
+Receiving Input
+Python Cheat Sheet
+Type Conversion
+Strings
+Formatted Strings
+String Methods
+Arithmetic Operations
+Operator Precedence
+Math Functions
+If Statements
+Logical Operators
